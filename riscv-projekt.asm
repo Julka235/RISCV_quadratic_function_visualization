@@ -36,8 +36,8 @@
 
 	.data
 prompt: .asciz "Enter function values a, b, c in ax2+bx+c:\n"
-filename: .asciz "out.bmp"					# input file
-fileout: .asciz	"pls.bmp"					# output file
+filename: .asciz "in.bmp"					# input file
+fileout: .asciz	"out.bmp"					# output file
 buf:	.space 56						# staticly allocated space for bitmap header
 
 	.text
