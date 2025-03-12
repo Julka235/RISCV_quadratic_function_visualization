@@ -3,8 +3,8 @@
 This project visualizes a quadratic function (y = ax^2 + bx + c) on a **BMP image** using the RISC-V architecture and the rars emulator. The user inputs the coefficients of the quadratic function and the program modifies an input BMP image (in.bmp) to visualize the function, saving the result as out.bmp.
 
 <div align="center">
-  <img src="images/qf1.png" alt="Quadratic function 1 Screenshot" width="49%">
-  <img src="images/qf2.png" alt="uadratic function 2 Screenshot" width="49%">
+  <img src="images/qf1.jpeg" alt="Quadratic function 1 Screenshot" width="49%">
+  <img src="images/qf2.jpeg" alt="uadratic function 2 Screenshot" width="49%">
 </div>
 
 ## Requirements
